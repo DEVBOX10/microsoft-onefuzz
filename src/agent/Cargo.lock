@@ -1291,9 +1291,9 @@ dependencies = [
 
 [[package]]
 name = "libc"
-version = "0.2.99"
+version = "0.2.107"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a7f823d141fe0a24df1e23b4af4e3c7ba9e5966ec514ea068c93024aa7deb765"
+checksum = "fbe5e23404da5b4f555ef85ebed98fb4083e55a00c317800bc2a50ede9f3d219"
 
 [[package]]
 name = "libclusterfuzz"
@@ -2660,9 +2660,9 @@ dependencies = [
 
 [[package]]
 name = "sysinfo"
-version = "0.20.0"
+version = "0.21.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "0af066e6272f2175c1783cfc2ebf3e2d8dfe2c182b00677fdeccbf8291af83fb"
+checksum = "3d9eb430607f9acce9ad33e90e129ecead2df5f2acc9f192b8ea54359f1d60e6"
 dependencies = [
  "cfg-if 1.0.0",
  "core-foundation-sys",
